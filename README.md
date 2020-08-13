@@ -3,7 +3,8 @@ Move'n'Slash - Just use your body to play!
 
 
 ## What is Move'n'Slash?
-Move'n'Slash is the first game (well, kinda for now) for visually impaired people AND for people who don't have binaural audio (because of hearing impaired in one ear or because of the use of a cochlear implant)!
+Move'n'Slash is the first game (well, sort of) for visually impaired people AND for people who don't have binaural audio (eg. because of hearing impaired in one ear or because of the use of a cochlear implant)!
+In Move'n'Slash you'll have to defeat all the enemies... before they become too much for you sword-arm to handle :)
 
 To play this game you don't need sight, neither both ears: just move your body to play!
 
@@ -21,7 +22,7 @@ Playing Move'n'Slash is very simple:
 
 - Open the link, click on Play button and wait for a few seconds;
 - In the meanwhile, move yourself about 1 meter/1 meter and half away from webcam and raise your right hand a bit, just like you were going to greet someone;
-- To defeat the enemies, you need to use your sword! To use it, just put your right hand on your left hip (or viceversa) and you will hear "Enemy 1 defeated!";
+- To defeat the enemies, you need to use your sword! To use it, just put your right hand on your left hip (or viceversa) and you will hear "Enemy 1 defeated!". When a new enemy comes, you will hear a "pop" sound;
 - Once you've defeated an enemy, just put your hand to greet again (using the sword all the time isn't funny, is it? :))
 - Use your "sword-arm" until you defeat all the enemies! 
 - Once you've cleared the stage, you will hear a message of victory and your score :)
