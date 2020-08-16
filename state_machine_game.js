@@ -1,3 +1,5 @@
+//CREDITS: Music: www.bensound.com
+
 let stateMachineManager;
 let currentValue;
 let speech;
