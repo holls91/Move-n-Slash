@@ -55,7 +55,7 @@ function WorldState(container){
     playingMusic = true;
   }
   let random = Math.random();
-  if(random > 0.85) {
+  if(random > 0.60) {
     console.log('Enemy'+enemyIndex);
     enemies.push('Enemy'+enemyIndex++);
     blopSound.play();
