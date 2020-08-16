@@ -21,13 +21,13 @@ Move'n'Slash is just a prototype for now, but it is already playable! Just go to
 Playing Move'n'Slash is very simple:
 
 - Open the link, click on Play button and wait for a few seconds;
-- In the meanwhile, move yourself about 1 meter/1 meter and half away from webcam and raise your right hand a bit, just like you were going to greet someone;
+- In the meanwhile, move yourself about 1 meter/1 meter and half away from webcam and, when asked, raise your right hand a bit, just like you were going to greet someone;
 - To defeat the enemies, you need to use your sword! To use it, just put your right hand on your left hip (or viceversa) and you will hear "Enemy 1 defeated!". When a new enemy comes, you will hear a "pop" sound;
-- Once you've defeated an enemy, just put your hand to greet again (using the sword all the time isn't funny, is it? :))
+- Once you've defeated an enemy, just put your hand to greet again or put your arms along your body (using the sword all the time isn't funny, is it? :))
 - Use your "sword-arm" until you defeat all the enemies! 
 - Once you've cleared the stage, you will hear a message of victory and your score :)
 
 To play again, just click on the Play button one more time!
 
 ## I'd like to contribute, how can I do this?
-It would be great! Once the code will be on this repository, you can do a pull request. I'd love to see your ideas!
+It would be great! Just fork this project and create a pull request. I'd love to see your ideas!
