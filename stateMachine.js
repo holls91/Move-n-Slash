@@ -112,8 +112,9 @@ function FightState(container){
 
 function VictoryState(container){
   bgMusic.stop();
+  playingMusic = false;
   score = round(millis()/enemyIndex);
-  speak('You win! Score is '+score+ ' points!');
+  speak('You win! Score is '+score+ ' points! Raise your hand to start a new game.');
   
   var self = this;
   self.container = container;
@@ -124,7 +125,10 @@ function VictoryState(container){
   };
   
   self.hi = function() {
-    //return this;//--
+    enemies = ['Enemy1', 'Enemy2', 'Enemy3', 'Enemy4'];
+    enemyIndex = 5;
+    score = 0;
+    self.next();
   };
   
   self.nothing = function() {
